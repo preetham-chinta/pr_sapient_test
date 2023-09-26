@@ -1,7 +1,7 @@
 # pr_sapient_test
 
 
-use the postman scripts to run the register and loginto application.
+use the postman scripts to import and run the register and loginto application.
 https://github.com/preetham-chinta/pr_sapient_test/blob/main/booking_app.postman_collection.json
 
 The below doc contains  more details on the implementation and data model design
